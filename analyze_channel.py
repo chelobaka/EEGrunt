@@ -16,7 +16,7 @@ source = 'openbci'
 path = 'data/'
 
 # EEG data file name
-filename = 'eegrunt-obci-raw-test-data.csv'
+filename = 'eegrunt-obci-raw-test-data.txt'
 
 # Session title (used in some plots and such)
 session_title = "EEGrunt OpenBCI Sample Data"
